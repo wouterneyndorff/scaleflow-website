@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://master.d1vr7cujupd7nn.amplifyapp.com"
 languageCode = "en-us"
-title = "Gosaas | hugo saas landing template"
+title = "Scaleflow | Teams adjusting to reality in realtime"
 theme = "gosaas-hugo"
 
 ############################# Plugins ##############################
@@ -89,7 +89,7 @@ author = "Themefisher"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 # copyright
-copyright = "| @2019 [Themefisher](https://themefisher.com) All Rights Reserved |"
+copyright = "2020 - Scale Force B.V. All Rights Reserved"
 
   # Preloader
   [params.preloader]
@@ -124,9 +124,9 @@ link = "#"
 ########################### footer call to action #####################
 [params.cta]
 enable = true
-title  = "Join 75,000+ growing businesses that <br> use Buffer to build their brands"
+title  = "Join 2500+ businesses that <br> use Scaleflow to be more effective"
 #button
-label = "Get start with us"
+label = "Start for free"
 link = "#"
 
 

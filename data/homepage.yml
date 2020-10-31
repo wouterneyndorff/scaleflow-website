@@ -3,8 +3,8 @@ banner:
   enable : true
   bgImage : "images/backgrounds/banner-bg.png"
   image : "images/illustrations/banner-img.png"
-  title : "**Build your audience** and grow on social media"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy <br> eirmod tempor invidunt ut labore et dolore magna."
+  title : "**Go 400% faster by** letting teams adapt to reality in realtime using Scaleflow"
+  content : "Scaleflow lets teams move incredibly fast by leveraging bladie bla bla blo bla bla bli!"
   button:
     enable : true
     label : "download now"

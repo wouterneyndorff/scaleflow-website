@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://master.d1vr7cujupd7nn.amplifyapp.com"
 languageCode = "en-us"
 title = "Gosaas | hugo saas landing template"
 theme = "gosaas-hugo"
